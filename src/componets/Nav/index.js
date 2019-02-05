@@ -1,5 +1,6 @@
 import React from "react";
 import Message from "../NavMess";
+import style from "./style.css" ;
 
 
 
@@ -8,7 +9,7 @@ function Nav(props){
         <nav className="navbar">
         <ul>
             <li className="brand">
-                <a href="/">Mopz Topz Clicky Game!</a>
+                <a href="/">Mopz Topz's Clicky Game!</a>
             </li>
             <Message Score= {props.score} topScore={props.topScore} />
             <li>
