@@ -1,6 +1,6 @@
 import React from "react";
-import Message from "../";
-import { AST_PropAccess } from "terser";
+import Message from "../NavMess";
+
 
 
 function Nav(props){

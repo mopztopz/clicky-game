@@ -1,5 +1,5 @@
 import React from "react";
-import "./style.css";
+// import "./style.css";
 
 function Click(props) {
   return (
@@ -14,3 +14,4 @@ function Click(props) {
 }
 
 export default Click;
+
