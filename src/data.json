@@ -1,8 +1,63 @@
 [
     {
         "id": 1,
-        "image": "/public/assets/images/boom.png",
+        "image": "/assets/images/boom.png",
         "clicked": false
-    }
+    },
+    {
+        "id": 2,
+        "image": "/assets/images/buda.png",
+        "clicked": false
+      },
+    {
+        "id": 3,
+        "image": "/assets/images/cringe.png",
+        "clicked": false
+      },
+    {
+        "id": 4,
+        "image": "/assets/images/fight.png",
+        "clicked": false
+      },
+    {
+        "id": 5,
+        "image": "/assets/images/game.png",
+        "clicked": false
+      },
+    {
+        "id": 6,
+        "image": "/assets/images/icon.png",
+        "clicked": false
+      },
+    {
+        "id": 7,
+        "image": "/assets/images/led.png",
+        "clicked": false
+      },
+    {
+        "id": 8,
+        "image": "/assets/images/money.png",
+        "clicked": false
+      },
+    {
+        "id": 9,
+        "image": "/assets/images/mood.png",
+        "clicked": false
+      },
+    {
+        "id": 10,
+        "image": "/assets/images/pizza.png",
+        "clicked": false
+      },
+    {
+        "id": 11,
+        "image": "/assets/images/smile.png",
+        "clicked": false
+      },
+    {
+        "id": 12,
+        "image": "/assets/images/subway.png",
+        "clicked": false
+      }
 
 ]
